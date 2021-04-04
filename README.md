@@ -12,6 +12,3 @@ I’m Aadi, an IB Candidate at Sir Wilfrid Laurier Collegiate Institute. I’m a
 - React and Redux for the Scouting App that I am building
 - Basic data structures and algorithms
 
-### 📫 How to reach me: ...
-
-- [LinkedIn](https://www.linkedin.com/in/aadisanghani/)
