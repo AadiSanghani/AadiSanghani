@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m Aadi, an IB Candidate at Sir Wilfrid Laurier Collegiate Institute. I’m a software developer and currently finishing up my senior year of high school, while actively looking for different internship opportunities for 2021 Summer. I’m always interested to hear about any cool projects you’re working on!
+I’m Aadi, an IB alumni and first year Computer Science student @ McMaster University. I’m a software developer and currently completing my first year at university, while actively looking for different internship opportunities for 2022 Summer. I’m always interested to hear about any cool projects you’re working on!
 
 ### 🔭 I’m working on ...
 
