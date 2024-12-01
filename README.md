@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m Aadi, an IB alumnus and third-year Computer Science student @ McMaster University. I’m a software developer currently completing my second year at university, and actively looking for different internship opportunities for 2024 Summer. I’m always interested in any cool projects you’re working on!
+I’m Aadi, an IB alumnus and third-year Computer Science student @ McMaster University. I’m a software developer currently on my internship year, currently interning at Shopify, and actively looking for different internship opportunities for 2025 Summer. I’m always interested in any cool projects you’re working on!
 
 ### 🔭 I’m working on ...
 
